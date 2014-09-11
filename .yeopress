@@ -1,0 +1,21 @@
+{
+	"wpVer": "4.0",
+	"url": "http://localhost",
+	"tablePrefix": "yeoman",
+	"dbHost": "localhost",
+	"dbName": "root",
+	"dbUser": "root",
+	"dbPass": "root",
+	"git": false,
+	"customDirs": true,
+	"wpDir": "wordpress",
+	"contentDir": "content",
+	"installTheme": true,
+	"themeDir": "danielg",
+	"themeType": "git",
+	"themeUser": "dgorges",
+	"themeRepo": "wptheme",
+	"themeBranch": "template",
+	"port": "8888",
+	"saltKeys": "define('AUTH_KEY',         '~T.||+2e&vVN0[%6$+<c/8=<9d}f]FXqa0[hSqzT&6=rp>z_Cqw5a$tY1,fMebh.');\ndefine('SECURE_AUTH_KEY',  'wzA&d(J`v|JON k&i8e?OP=yXX@pj1KrZ~EJBT,B.e1USHi2+hKN?&?|o}#+w|tb');\ndefine('LOGGED_IN_KEY',    '8d+#/xqY?|Z~ezsf~@7BQ_HhtC?^s-`yovR>LI5Wbw]Q}m.!Ve BCo~rI!{v}in&');\ndefine('NONCE_KEY',        '`E[-h=byxLw]K2!Ol*_}&<IE(SCOO>g3$YX)doNMo|v,<YAyVX}{|?NS7-9TG]2;');\ndefine('AUTH_SALT',        'iT:&=wk@{lD>qEa>I>c(mZ!}` fsF<89%)71/+z0Pua*]y2tPX~Zakh5`1X1_7f1');\ndefine('SECURE_AUTH_SALT', '@@CN,`e9%o8c2^`V8c&EBY+y,Wa{N<P]M}LptdXj+!]-r:0C-WSE-m$&$G<?!OgN');\ndefine('LOGGED_IN_SALT',   'UhQ>%ih@1&K4V&WO.sIJd4eo9&%Z[]f-;;9JW|u!Z5Uy`*x1>ln7~{c;d]+4?bXT');\ndefine('NONCE_SALT',       'Uk?6d-T!M(wZ+3G>*[tE`ia+1yQd8B{_6p}JU6Cs97-YxP:v_:-1qX}~*Esn@^kL');\n"
+}
